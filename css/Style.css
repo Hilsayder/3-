@@ -46,9 +46,10 @@ footer{
 
 @media(max-width:1200px){}
 @media(max-width:992px){}
+
 @media(max-width:768px){
 	.knopki{
-		top:35%
+		top:35%;
 	}
 }
 
