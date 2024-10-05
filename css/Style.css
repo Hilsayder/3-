@@ -46,16 +46,9 @@ footer{
 
 @media(max-width:1200px){}
 @media(max-width:992px){}
-@media(max-width:768px){
-	.knopki{
-		top:35px;}
-}
-@media(max-width:480px){
-	.knopki{
-		top:35px;}
-}
-@media(max-width:320px){
-	.knopki{
-		top:35px;}
-}
+@media(max-width:768px){}
+
+@media(max-width:480px){}
+
+@media(max-width:320px){}
 
