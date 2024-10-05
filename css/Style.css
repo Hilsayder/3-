@@ -44,10 +44,22 @@ footer{
     font-weight: bold;
 }
 
-@media(min-width:1200px){}
-@media(min-width:992px){}
-@media(min-width:768px){}
-@media(min-width:480px){}
+@media(min-width:1200px){
+	.knopki{
+		top:35px;}
+}
+@media(min-width:992px){
+	.knopki{
+		top:35px;}
+}
+@media(min-width:768px){
+	.knopki{
+		top:35px;}
+}
+@media(min-width:480px){
+	.knopki{
+		top:35px;}
+}
 @media(min-width:320px){
 	.knopki{
 		top:35px;}
